@@ -11,6 +11,6 @@ Usually I work with Microsoft technologies (netcore, Azure) and cloud-native rel
 
 I am a regular speaker in community events and also a beer drinker and crafter, always available to drink a craft beer!🍺
 
-📫 How to reach me: Just drop an email to etomas AT gmail DOT com
+📫 Where you can find me: In [twitter](https://twitter.com/eiximenis) and in [linkedin](https://www.linkedin.com/in/etomas/)
 
 
