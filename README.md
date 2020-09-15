@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello Everyone!!!! 👋👋👋👋👋👋👋👋👋👋
 
-<!--
-**eiximenis/eiximenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Edu, and I work in [PlainConcepts](https://www.plainconcepts.com/) doing stuff with computers!
 
-Here are some ideas to get you started:
+In my spare time I love to contribute to OSS. Besides my contributions with the [Xabaril](https://github.com/xabaril) group, I am focused right now in two OSS projects of my own:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* TVision2: A netstandard library to build cross-platform TUI applications **and games!** using .NET Core. 
+* Arrow.Sharp: A small library to bring some functional constructions and paradigms to C#
+
+Usually I work with Microsoft technologies (netcore, Azure) and cloud-native related technologies (kubernetes, docker). But I also have some fun with Go, Rust, Elixir and Kotlin when I can!
+
+I am a regular speaker in community events and also a beer drinker and crafter, always available to drink a craft beer!🍺
+
+📫 How to reach me: Just drop an email to etomas AT gmail DOT com
+
+
